@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VincentCastl
-- 👀 I’m interested in Data Analysis, Software and Game Development
-- 🌱 I’m currently learning Python, SQL and BI development
+- 👀 I’m interested in Data Analysis, Software and Game Development and anything Art related.
+- 🌱 I’m currently learning R, Python, SQL, BI development and 2d Pixel art.
 - 💞️ I’m looking to collaborate on various projects that can help me increase my knowledge on Python and SQL.
 - 📫 You can reach me at raulindries1@gmail.com
 
