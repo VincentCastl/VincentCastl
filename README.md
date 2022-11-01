@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raul, also known as @VincentCastle
+- 👋 Hi, I’m Raul.
 - 👀 I’m interested in Data Analysis, Software and Game Development and anything Art related.
 - 🌱 I’m currently learning R, Python, SQL, BI development and 2d Pixel art.
 - 💞️ I’m looking to collaborate on various projects that can help me increase my knowledge on Python and SQL.
