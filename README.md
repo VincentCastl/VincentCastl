@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Raul - A Data Analyst at Amazon UK.
-- 👀 I’m interested in Data Analysis, Software / Game Development and anything Art related.
-- 🌱 I’m currently learning R, Python, SQL, BI development and 2d Pixel art.
+- 👋 Hi, I’m Raul - A BI Analyst with working experience from companies such as Amazon and Hays Travel UK.
+- 👀 I’m interested in Data Analysis, Software / Game Development, plus anything Art related.
+- 🌱 I'm currently learning multiple coding languages and visual scripting.
 - 📫 You can reach me at raulindries1@gmail.com
 
 <!---
